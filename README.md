@@ -1,4 +1,4 @@
-Your Project
+Sample survey API
 ------------
 
 On the back-end,
